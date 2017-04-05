@@ -17,6 +17,6 @@ This exercise invites you to add your name as a participant in Code Club, in the
 ## List of Names
 
 * Jeremy Prevost
-* 
+* [Matt Bernhardt](https://github.com/matt-bernhardt)
 
 _This exercise was inspired by [Library Code Year](https://github.com/LibraryCodeYearIG/Codeyear-IG-Github-Project)._
