@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## MIT Libraries Code Club
 
-You can use the [editor on GitHub](https://github.com/MITLibraries/codeclub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Hi and welcome!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This site uses a git repository hosted on GitHub to automatically generate the
+html from markdown files. We'd love if members edited and created files on this
+site to both help the club maintain documentation as well as to practice using
+git and GitHub!
 
-### Markdown
+Some [initial documentation](docs/editing_pages.md) on how to edit pages is
+available, but please do add and update it to make it more useful to all of us!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Join the Club
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MITLibraries/codeclub/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+As practice using git and GitHub, please add your name to the list of
+[Code Club Members](exercises/add-your-name/names.md).
