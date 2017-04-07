@@ -21,5 +21,6 @@ This exercise invites you to add your name as a participant in Code Club, in the
 * [Christine Moulen] (https://github.com/orbitee)
 * [Helen Bailey](https://github.com/hakbailey)
 * [Hattie Llavina](https://github.com/hllavina)
+* Osman Din
 
 _This exercise was inspired by [Library Code Year](https://github.com/LibraryCodeYearIG/Codeyear-IG-Github-Project)._
