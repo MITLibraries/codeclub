@@ -18,7 +18,7 @@ This exercise invites you to add your name as a participant in Code Club, in the
 
 * Jeremy Prevost
 * [Matt Bernhardt](https://github.com/matt-bernhardt)
-* [Christine Moulen] (https://github.com/orbitee)
+* [Christine Moulen](https://github.com/orbitee)
 * [Helen Bailey](https://github.com/hakbailey)
 * [Hattie Llavina](https://github.com/hllavina)
 * Osman Din
